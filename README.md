@@ -1,4 +1,4 @@
-# Supplementary Evaluation Results
+# ICML 2026 Evaluation Results
 
 > **Note to reviewers:** This page contains supplementary material for the ICML rebuttal. **Section A** presents the four main result figures; **Section B** contains the full per-task, per-opponent evaluation tables. All models are fine-tuned from Qwen3-4B-Thinking-2507 with a shared SFT backbone.
 
