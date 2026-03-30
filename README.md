@@ -34,7 +34,7 @@
 
 ---
 
-## Section B — Evaluation Tables
+## Reviewer 3PjX, #1 Response: Data for Figures (for Appendix) 
 
 *Full per-task, per-opponent breakdown of all trained policy configurations. **Tr. Opp.** = the model used as training opponent. Columns: Turns = mean conversation length ± std; Agr. Rate = fraction reaching agreement ± std; R₁/R₂ = mean reward ± std for Agent 1 (trained) and Agent 2. Two rows are bolded per table: the **best HAR-family policy** (HAR, GRPO+HAR, HAR+GRPO) and the **best regular RL policy** (GRPO, REINFORCE), both selected by highest **R₂**.*
 
