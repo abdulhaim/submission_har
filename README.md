@@ -1,6 +1,6 @@
 # ICML 2026 Evaluation Results
 
-## Section A — Figures
+##  Reviewer 3PjX, #1 Response Figures 
 
 ### Figure 1. Trained Agent Reward by Task and Training Method
 
