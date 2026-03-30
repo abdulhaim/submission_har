@@ -36,14 +36,6 @@
 
 ## Reviewer 3PjX, #1 Response: Data for Figures (for Appendix) 
 
-*Full per-task, per-opponent breakdown of all trained policy configurations. **Tr. Opp.** = the model used as training opponent. Columns: Turns = mean conversation length ± std; Agr. Rate = fraction reaching agreement ± std; R₁/R₂ = mean reward ± std for Agent 1 (trained) and Agent 2. Two rows are bolded per table: the **best HAR-family policy** (HAR, GRPO+HAR, HAR+GRPO) and the **best regular RL policy** (GRPO, REINFORCE), both selected by highest **R₂**.*
-
----
-
-## B.1 — Opponent: Prompted Agent (Qwen3-4B-Thinking-2507)
-
-*Agent 2 is a prompted instance of Qwen3-4B-Thinking-2507 with a distinct negotiation persona.*
-
 ### Task: Solwave Acquisition
 
 | Policy | Tr. Opp. | Turns | Agr. Rate | R₁ | R₂ |
@@ -758,5 +750,3 @@
 **Table 36.** Gourmet Shutdown, Opponent: Claude-3-Haiku. Best HAR R₂: **HAR+GRPO(ε=0.5) 3T ep.500 [HRL]** (Qwen3-4B-Thinking-2507 opp, R₂=0.660; note HAR+GRPO 3T ep.620 has R₂=1.928 but very high variance ±0.518 — if accepting that value, it would instead be the best HAR). Best regular RL R₂: **GRPO(ε=0.5) 1T-NP ep.320 [Sim]** (R₂=0.659).
 
 ---
-
-*End of Appendix.*
