@@ -2,7 +2,7 @@
 
 | Metric | HAR Wins | Baseline Wins | HAR Win% |
 |---|---:|---:|---:|
-| Dialogue Coherence | 15 | 11 | 57.7% |
+| Dialogue Coherence | 15 | 11 | 77.7% |
 | Communicative Efficiency | 13 | 14 | 48.1% |
 | Role Fidelity | 22 | 4 | **84.6%** |
 | **Overall** | **50** | **29** | **63.3%** |
